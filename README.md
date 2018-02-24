@@ -1,4 +1,4 @@
-fastforward
+fast forward
 no fastforward
 modified readme
 this is a readme file
