@@ -1,4 +1,4 @@
-from jt_py/test1
+test1_copy/test_paper
 test
 fast forward
 no fastforward
